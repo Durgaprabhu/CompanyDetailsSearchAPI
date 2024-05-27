@@ -1,0 +1,6 @@
+wiremock-setup-config:
+  proxies:
+    - name: trunarrative
+      port: 9091
+      url: https://exercise.trunarrative.cloud/TruProxyAPI/rest
+      stubbing: true

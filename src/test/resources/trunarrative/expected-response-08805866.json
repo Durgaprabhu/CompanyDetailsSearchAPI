@@ -1,0 +1,57 @@
+{
+  "total_results": 1,
+  "items": [
+    {
+      "company_number": "08805866",
+      "company_type": "private-limited-guarant-nsc-limited-exemption",
+      "title": "ACTION AGAINST DISCRIMINATION",
+      "company_status": "active",
+      "date_of_creation": "2013-12-06",
+      "officers": [
+        {
+          "name": "CORY, Lee Elliot",
+          "officer_role": "director",
+          "appointed_on": "2014-01-10",
+          "address": {
+            "locality": "London",
+            "postal_code": "NW1 3ER",
+            "premises": "Acre House",
+            "address_line_1": "11/15 William Road",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "METLISS, Jonathan Alexander",
+          "officer_role": "director",
+          "appointed_on": "2013-12-06",
+          "address": {
+            "locality": "London",
+            "postal_code": "NW1 3ER",
+            "premises": "Acre House",
+            "address_line_1": "11/15 William Road",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "SHERWOOD, Andrew Harris",
+          "officer_role": "director",
+          "appointed_on": "2017-10-27",
+          "address": {
+            "locality": "London",
+            "postal_code": "NW1 3ER",
+            "premises": "Acre House",
+            "address_line_1": "11/15 William Road",
+            "country": "United Kingdom"
+          }
+        }
+      ],
+      "address": {
+        "locality": "London",
+        "postal_code": "NW1 3ER",
+        "premises": "Acre House",
+        "address_line_1": "11/15 William Road",
+        "country": "United Kingdom"
+      }
+    }
+  ]
+}

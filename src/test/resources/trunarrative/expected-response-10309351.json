@@ -1,0 +1,45 @@
+{
+  "total_results": 1,
+  "items": [
+    {
+      "company_number": "10309351",
+      "company_type": "ltd",
+      "title": "AWARDS AFRICAN WOMEN AGAINST RACISM DISCRIMINATION SEXISM LIMITED",
+      "company_status": "dissolved",
+      "date_of_creation": "2016-08-03",
+      "officers": [
+        {
+          "name": "DUBLIN, Alice Gisele",
+          "officer_role": "secretary",
+          "appointed_on": "2016-08-23",
+          "address": {
+            "locality": "London",
+            "postal_code": "E16 1PT",
+            "premises": "Alice Dublin",
+            "address_line_1": "50 Shillingshaw Lodge",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "DUBLIN, Alice Gisele",
+          "officer_role": "director",
+          "appointed_on": "2016-08-24",
+          "address": {
+            "locality": "London",
+            "postal_code": "E16 1PT",
+            "premises": "Shillingshaw Lodge",
+            "address_line_1": "Flat 50 Shillingshaw Lodge",
+            "country": "England"
+          }
+        }
+      ],
+      "address": {
+        "locality": "London",
+        "postal_code": "E16 1PT",
+        "premises": "Alice Dublin 50 Shillingshaw Lodge",
+        "address_line_1": "208 Butchers Road",
+        "country": "United Kingdom"
+      }
+    }
+  ]
+}

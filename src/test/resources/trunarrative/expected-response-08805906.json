@@ -1,0 +1,40 @@
+{
+  "total_results" : 1,
+  "items" : [ {
+    "company_number" : "08805906",
+    "company_type" : "private-limited-guarant-nsc-limited-exemption",
+    "title" : "ALLIANCE AGAINST ROMANIANS AND BULGARIANS DISCRIMINATION",
+    "company_status" : "dissolved",
+    "date_of_creation" : "2013-12-06",
+    "officers" : [ {
+      "name" : "TOMESCU, Tommy Iuliu Joul",
+      "officer_role" : "secretary",
+      "appointed_on" : "2013-12-06",
+      "address" : {
+        "locality" : "London",
+        "postal_code" : "WC1X 9ND",
+        "premises" : "Flat 7",
+        "address_line_1" : "18 Acton St",
+        "country" : "England"
+      }
+    }, {
+      "name" : "TOMESCU, Tommy Iuliu Joul",
+      "officer_role" : "director",
+      "appointed_on" : "2013-12-06",
+      "address" : {
+        "locality" : "London",
+        "postal_code" : "WC1X 9ND",
+        "premises" : "Flat 7",
+        "address_line_1" : "18 Acton St",
+        "country" : "England"
+      }
+    } ],
+    "address" : {
+      "locality" : "London",
+      "postal_code" : "WC1X 9ND",
+      "premises" : "Flat 7 ",
+      "address_line_1" : "18 Acton St.",
+      "country" : null
+    }
+  } ]
+}
